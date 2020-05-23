@@ -4,8 +4,6 @@ import ChooseJoke from '../../components/home'
 import { JokeList } from '../../components/joke_list'
 import Favourite from '../../components/favourite/index'
 
-
-
 import burgerOpen from '../../assets/burgerOpen.png'
 import burgerClose from '../../assets/burgerClose.png'
 

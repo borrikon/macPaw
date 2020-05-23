@@ -5,7 +5,6 @@ import JokeItem from '../joke_item';
 
 import { main_store_ctx } from '../../store/main_store';
 
-
 export const JokeList = observer(() => {
     const { jokeList, jokeLikeOrUnlike, isFavoiriteJoke } = useContext(main_store_ctx);
 
